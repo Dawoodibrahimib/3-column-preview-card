@@ -1,0 +1,173 @@
+
+body
+{
+    background-color: #F2F2F2;
+    font-size: 15px;
+
+}
+@media (min-width: 375px) and (max-width: 1440px) {
+    
+  }
+
+.🌯,.🍔,.🍨
+{
+    height: 500px;
+    width: 350px;
+   
+  
+}
+.🛢️
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    border: 10px;
+    
+    
+}
+.🌯
+{
+    background-color: #E28525;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.🍔
+{
+    background-color: #016972;
+}
+.🍨
+{
+    background-color: #00403F;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.🌵
+{
+    position: relative;
+    left: 42px;
+    top: 45px;
+
+}
+.🥭
+{
+    position: relative;
+    left: 42px;
+    top: 45px;
+}
+.🍎
+{
+    position: relative;
+    left: 42px;
+    top: 45px;
+}
+.💡
+{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 41px;
+    position: relative;
+    top:50px;
+    left: 42px;
+    color: #ffffff;
+}
+.🧄
+{
+    position: relative;
+    font-family:'Lexend Deca', sans-serif;
+    top: 40px;
+    left: 38px;
+    color: #F2F2F2;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.🐫
+{
+    position: relative;
+    font-family:'Lexend Deca', sans-serif;
+    top: 40px;
+    left: 41px;
+    color: #F2F2F2;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+.🍊
+{
+    position: relative;
+    font-family:'Lexend Deca', sans-serif;
+    top: 40px;
+    left: 41px;
+    color: #F2F2F2;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+.🐻
+{
+    position: relative;
+    top: 115px;
+    height: 50px;
+    left: 39.7px;
+    width:140px ;
+    border-radius: 25px;
+    border: none;
+    color:#E28525;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 1000;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+
+.🐮
+{
+    position: relative;
+    top: 115px;
+    height: 50px;
+    left: 39.7px;
+    width:140px ;
+    border-radius: 25px;
+    border: none;
+    color: #016972;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 1000;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.🐐
+{
+    position: relative;
+    top: 115px;
+    height: 50px;
+    left: 39.7px;
+    width:140px ;
+    border-radius: 25px;
+    border: none;
+    color:#00403F;
+    font-family:'Lexend Deca', sans-serif;
+    font-weight: 1000;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+
+}
+.🐻:active
+{
+    background-color:#E28525;
+    color: white;
+    border: 1px solid white;
+}
+.🐮:active
+{
+    background-color:#016972;
+    color: white;
+    border: 1px solid white;
+}
+.🐐:active
+{
+    background-color:#00403F;
+    color: white;
+    border: 1px solid white;
+}
